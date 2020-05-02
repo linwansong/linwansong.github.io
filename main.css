@@ -1,0 +1,73 @@
+.about-content {
+    vertical-align: top;
+    align-self: left;
+    margin: 2.5%;
+    display: inline-block;
+    width: 44%;
+    height: auto;
+}
+
+.about-photo {
+    vertical-align: top;
+    align-self: right;
+    margin: 2.5%;
+    display: inline-block;
+    width: 44%;
+    height: auto;
+}
+
+.project-container{
+    width:30%
+}
+
+.project-image{
+    width: 100%;
+    height: auto;
+}
+
+.project-title{
+    font-weight: lighter;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.project-description{
+    margin-top: 2px;
+    padding-top: 2px;
+}
+
+.work-company{
+    font-weight: lighter;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.work-description{
+    margin-top: 2px;
+    padding-top: 2px;
+}
+
+/* 
+.slideshow-container {
+    margin: 0% 24%;
+    display: inline-block;
+    position: relative;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.slide {
+    display: none;
+    vertical-align: top;
+    margin: 2.5%;
+    width: 80%;
+    align-content: center;
+}
+
+.prev, .next {
+    display: inline-block;
+    cursor: pointer;
+    margin: 38% 0%;
+    font-weight: bold;
+    font-size: 18px;
+} */

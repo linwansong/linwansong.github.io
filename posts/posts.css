@@ -1,0 +1,43 @@
+.title{
+    padding: 7.5% 10% 0% 10%;
+    height: auto;
+}
+
+.content{
+    padding: 1% 15%;
+    height: auto;
+    text-indent: 20px;
+}
+
+.content-photo {
+    width: 95%;
+    height: auto;
+}
+
+.content-section{
+    display:flex;
+    justify-content: center;
+    align-items: top;
+/*     align-items: center; */
+}
+
+.content-subsection{
+    padding : 1%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.large{
+    width: 65%;
+}
+
+.small{
+    width: 30%;
+}
+
+/* .content-subsection-small{
+    padding : 2.5%;
+    width: 28%;
+    vertical-align: top;
+    display: inline-block;
+} */
