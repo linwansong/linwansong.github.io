@@ -6,27 +6,20 @@
     <description>Recent content on Linwan Song</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://linwansong.ca/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://linwansong.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Milestone 0: The Site is (re)launched! (And a brief history)</title>
       <link>http://linwansong.ca/blog/milestone-0/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://linwansong.ca/blog/milestone-0/</guid>
-      <description>I developed my first website way back in 2017, in a panic after I decided that I wasn&amp;rsquo;t going to find an internship without one. It was a horrendous thing, made up of cobbled together HTML and CSS that I got from a free Bootstrap template, but it was a webpage that displayed things, so I suppose it was good enough.
-I was eventually employed (although I don&amp;rsquo;t think my site had anything to do with getting me that job) and I promptly forgot about this site.</description>
+      <description>I developed my first website way back in 2017, in a panic after I decided that I wasn&amp;rsquo;t going to find an internship without one. It was a horrendous thing, made up of cobbled together HTML and CSS that I got from a free Bootstrap template, but it was a webpage that displayed things, so I suppose it was good enough.&#xA;I was eventually employed (although I don&amp;rsquo;t think my site had anything to do with getting me that job) and I promptly forgot about this site.</description>
     </item>
-    
     <item>
       <title>This Site!</title>
       <link>http://linwansong.ca/projects/site/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://linwansong.ca/projects/site/</guid>
-      <description>The theme of this site was designed in Figma and written by hand. The blog itself is statically generated with Hugo.
-I&amp;rsquo;m not sure this site will ever be finished, so expect changes as time goes on. I will keep this project page updated as a changelog.
-Milestone 0</description>
+      <description>The theme of this site was designed in Figma and written by hand. The blog itself is statically generated with Hugo.&#xA;I&amp;rsquo;m not sure this site will ever be finished, so expect changes as time goes on. I will keep this project page updated as a changelog.&#xA;Milestone 0</description>
     </item>
-    
   </channel>
 </rss>
